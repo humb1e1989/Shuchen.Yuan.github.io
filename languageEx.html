@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>中英文切换</title>
+</head>
+<body>
+  <h1>中英文切换</h1>
+  <button id="langBtn">中文</button>
+  
+  <script>
+    var langBtn = document.getElementById('langBtn');
+    langBtn.addEventListener('click', function() {
+      var lang = langBtn.innerText.trim();
+      if (lang === '中文') {
+        location.href = 'index-cn.html';
+      } else {
+        location.href = 'index-en.html';
+      }
+    });
+  </script>
+</body>
+</html>
