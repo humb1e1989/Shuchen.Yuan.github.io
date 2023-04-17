@@ -1,4 +1,3 @@
-# My personal page 
-> Hi there, welcome to my world <br>
-> I am currently [your position, e.g., a Ph.D. candidate, a postdoctoral researcher, or an assistant professor] at the [Your University or Institution Name] in the [Your Department or Research Group Name]. My research interests lie at the intersection of [Main Research Area 1], [Main Research Area 2], and [Main Research Area 3], with a particular focus on [specific research topic or application].
+# Don't take it personal. (Nah I'm jokin!)
+> Hi there, welcome to my world <br>![09DDB81B](https://user-images.githubusercontent.com/100217991/232484205-4d91dc6e-e317-4115-963e-6fa89e52b646.gif)
 
